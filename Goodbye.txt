@@ -1,1 +1,2 @@
 print ("Goodbye World")
+Console.Writeline ("Goodbye everybody");
